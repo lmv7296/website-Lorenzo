@@ -8,6 +8,8 @@ width: 100px;
 }
 
 .Header_list{
+text-align: end;
+width: calc(100% - 160px);
 display: inline-block;
 vertical-align: top;
 margin-top: 5px;
@@ -15,6 +17,7 @@ margin-top: 5px;
 
 .Header_list_item{
 display: inline-block;
-margin: 5px;
+margin-top: 5px;
+padding-right: 50px;
 
 }
