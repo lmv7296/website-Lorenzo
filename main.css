@@ -1,0 +1,20 @@
+body{
+    margin: 10px; 
+}
+.Logo_img{
+margin-top: 6px;
+width: 100px;
+
+}
+
+.Header_list{
+display: inline-block;
+vertical-align: top;
+margin-top: 5px;
+}
+
+.Header_list_item{
+display: inline-block;
+margin: 5px;
+
+}
