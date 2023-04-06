@@ -1,0 +1,19 @@
+{
+  "name": "portfolio-website-lorenzo",
+  "version": "1.0.0",
+  "description": "My portfolio website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.corp.globant.com/lorenzo-vredeveld/portfolio-website-Lorenzo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "2.8.4"
+  }
+}
