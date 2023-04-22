@@ -10,19 +10,6 @@ div{
     margin-bottom: 30px;
 }
 
-.Logo{
-    height: 30%;
-    width: 30%;
-}
-.img-logo{
-    height: 100%;
-    width: 100%;
-}
-.main_header{
-    display:flex;
-    justify-content: center;
-}
-
 h1,
 .first_paragraph {
     display: flex;
