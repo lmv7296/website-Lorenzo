@@ -25,6 +25,16 @@ a {
   color: rgb(255, 255, 255);
 }
 
+a:hover{
+  text-decoration: underline;
+  color: rgb(50, 121, 227);
+}
+div:last-child{
+  display: inline-block;
+  width: 60%;
+}
+
+
 .Logo {
   height: 30%;
   width: 30%;
@@ -43,24 +53,26 @@ a {
 }
 
 
-.selectors > p{
+.selectors_intro > p{
   display: inline-block;
-  margin: 40px 0px px 0px;
+  margin-top: 40px;
   width: 60%;
 
 }
 
-.type_of_selectors {
-  display: flex;
-  justify-content: center;
-  margin: 0px 15px 0px 20px;
+.selectors > section{
+  display: inline-block;
+  vertical-align: text-top;
+  width: 19%;
 }
-.type_of_selectors >h4 {
+
+.selectors > h4 {
+  position: relative;
   margin-bottom: 30px;
   display: block;
 }
 
-.type_of_selectors > div {
+.selectors > div {
   display: block;
   width: 100%;
   margin: 0px 5px;
@@ -81,12 +93,4 @@ a {
   margin: 15px 15px 5px 20px;
 }
 
-.pseudo_Classes {
-  display: inline-block;
-  width: 60%;
-}
 
-.css_boxmodel {
-  display: inline-block;
-  width: 60%;
-}
