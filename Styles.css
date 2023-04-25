@@ -4,6 +4,7 @@ body{
     color: #ffff;
     
 }
+
 .Logo{
     height: 30px;
     display: inline-block;
@@ -102,6 +103,10 @@ margin-top: 15px;
     text-decoration: none;
     padding: 0px 5px;
     color: #ffff;
+}
+
+.list_item a:hover{
+    text-decoration: underline;
 }
 
 .aboutme_main{
