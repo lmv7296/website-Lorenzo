@@ -76,14 +76,6 @@ a:hover{
   width: 100%;
   margin: 0px 5px;
 }
-.selectors_Special_styling > section:hover{
-background-color: pink;
-}
-
-.selectors_Special_styling > div > section:hover{
-  background-color: yellow;
-  color: black;
-  }
 
 .selector_list {
   margin: 5px 0px 60px 0px;
